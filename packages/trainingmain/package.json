@@ -6,6 +6,10 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/trainingmain.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@guillaume.chervet/trainingshared": "^0.0.1"
   },
@@ -22,5 +26,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "a881e9f2573542c6b742cae773ec9baa35059c05"
 }
