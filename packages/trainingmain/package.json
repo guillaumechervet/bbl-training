@@ -1,13 +1,13 @@
 {
   "name": "@guillaume.chervet/trainingmain",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Guillaume Chervet <guillaume.chervet@axa.fr>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/trainingmain.js",
   "dependencies": {
-    "@guillaume.chervet/trainingshared" : "0.0.0"
+    "@guillaume.chervet/trainingshared": "^0.0.1"
   },
   "directories": {
     "lib": "lib",
